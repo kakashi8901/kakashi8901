@@ -1,6 +1,6 @@
 🚀 About Me
 
-I'm an Software Developer with 2+ years of experience in building scalable and efficient microservices using Java. Passionate about backend development, cloud technologies, and performance optimization.
+I'm an Software Developer with 2+ years of experience in building scalable and efficient microservices and android applications using Java. Passionate about backend development, cloud technologies, and performance optimization.
 
 🌱 Constantly learning and exploring new technologies, sharing insights on Spring Boot, Java, and Kafka.
 
